@@ -1,2 +1,2 @@
 ﻿  main.cpp
-C:\Users\Jordan\Desktop\알고리즘_C++\CodeUp100\1012\main.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1012.vcxproj -> C:\Users\Jordan\Desktop\알고리즘_C++\CodeUp100\x64\Debug\1012.exe

@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 	float x;
-	scanf("%f", &x);
+	scanf_s("%f", &x);
 	printf("%f\n", x);
 
 }
