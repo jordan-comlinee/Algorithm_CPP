@@ -1,6 +1,9 @@
 ## C++ 코딩테스트 Study
 
-#### 1. scanf_s() VS scanf()
+### 1. cin&cout VS scanf()&printf()
+
+
+### 2. scanf_s() VS scanf()
 
 scanf는 버퍼 오버플로우 문제가 발생할 수 있다.
 
